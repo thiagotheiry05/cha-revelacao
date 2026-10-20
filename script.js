@@ -5,7 +5,7 @@
 // 2) Data e hora da revelação (fuso horário de Brasília = -03:00)
 // =====================================================
 const VIDEO_ID = "https://youtu.be/d-_CkRjLap8?si=zLjsvgssLWwKBNMo";
-const DATA_REVELACAO = "2026-10-31T15:35:00-03:00";
+const DATA_REVELACAO = "2026-10-20T15:35:00-03:00";
 
 const elementos = {
   espera: document.getElementById("espera"),
