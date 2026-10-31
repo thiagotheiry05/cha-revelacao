@@ -2,7 +2,7 @@
 // EDITE APENAS A DATA E OS LINKS ABAIXO, SE NECESSÁRIO.
 // Use -03:00 para o horário de Brasília.
 // =====================================================
-const DATA_REVELACAO = "2026-10-30T17:12:00-03:00";
+const DATA_REVELACAO = "2026-10-31T12:00:00-03:00";
 const CANVA_EMBED_URL = "https://www.canva.com/design/DAHZhHBylhY/JK335Q0j8npqzE62g3a4dA/watch?embed";
 const CANVA_VIDEO_URL = "https://www.canva.com/design/DAHZhHBylhY/JK335Q0j8npqzE62g3a4dA/watch";
 
